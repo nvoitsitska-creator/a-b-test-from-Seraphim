@@ -5,3 +5,4 @@ This repository contains the complete codebase for the Digital Assistant 31 (DA 
  - python notebook files for easy experimentation and development
  - EDA exploratory data analysis files
  - AB testing scripts to optimize performance
+Comment by Anastasiia 
